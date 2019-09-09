@@ -8,6 +8,8 @@ public class two_integer_sum {
 		int sum = a + b;
 		
 		System.out.println(sum);
+		
+		System.out.println("We will see how changing reacts to github repository");
 	}
 
 }
